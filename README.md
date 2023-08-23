@@ -1,6 +1,8 @@
 ### pyscrap
 # Web scraper en python usando BeatifulSoup
 ### Instalacion
+# instalar el binario y ejecutarlo
+# O
 # Instalar python
 # Clonar el repositorio
 ```
